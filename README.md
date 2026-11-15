@@ -22,6 +22,9 @@ This project analyzes cafe sales transaction data using Python, Pandas, and Matp
 4. Data Visualization
 5. Business Insights
 6. Conclusion
+   
+**Project Resources:**
+- [View Jupyter Notebook](Cafe-Sales-Analysis-.ipynb)
 
 ## Key Findings
 - Coffee recorded the highest quantity sold (3,551 units).
