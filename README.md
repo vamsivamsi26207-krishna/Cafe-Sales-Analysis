@@ -4,6 +4,12 @@
 ## Project Overview
 This project analyzes cafe sales transaction data using Python, Pandas, and Matplotlib. The objective is to examine product performance, monthly revenue trends, payment methods, and sales locations through exploratory data analysis and visualization.
 
+## 🚀 Live Application
+
+Try CafeIQ – Smart Cafe Analytics:
+
+[Open CafeIQ Dashboard](https://cafeiq.streamlit.app/)
+
 ## Dataset Overview
 - Total Records: 10,000
 - Total Columns: 8
