@@ -180,7 +180,7 @@ try:
         raw_df = load_data(uploaded_file)
 
     else:
-        file_path = Path("data/cafe_sales.csv")
+        file_path = Path(__file__).parent / "data" / "cafe_sales.csv"
 
         if file_path.exists():
             raw_df = load_data(str(file_path))
